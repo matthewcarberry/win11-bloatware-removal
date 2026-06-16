@@ -2,7 +2,7 @@
 
 <#
 .SYNOPSIS
-Removes selected Windows 11 inbox apps for all users and deprovisions them for future users.
+Removes selected Windows 11 apps for all users and deprovisions them for future users.
 
 .EXAMPLE
 .\bloatware-removal.ps1 -WhatIf
